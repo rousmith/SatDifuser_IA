@@ -151,4 +151,4 @@ Lacoste, A., Lehmann, N., Rodriguez, P., Sherrick, E., Metref, H., Grave, E., et
 
 ## Contacto de la ficha de conjunto de datos
 
-- Rousmith Ladino — GitHub: [@rousmith](https://github.com/rousmith) — Correo: _(pendiente)_
+- Rousmith Ladino — GitHub: [@rousmith](https://github.com/rousmith) — Correo: rvladinog@udistrital.edu.co

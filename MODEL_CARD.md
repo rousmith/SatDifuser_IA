@@ -293,4 +293,4 @@ Jia, Y., Marsocci, V., Gong, Z., Yang, X., Vergauwen, M., & Nascetti, A. (2025).
 
 ## Contacto de la ficha de modelo
 
-- Rousmith Ladino — GitHub: [@rousmith](https://github.com/rousmith) — Correo: _(pendiente)_
+- Rousmith Ladino — GitHub: [@rousmith](https://github.com/rousmith) — Correo: rvladinog@udistrital.edu.co

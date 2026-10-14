@@ -24,7 +24,7 @@
 - **Nombre completo:** Rousmith Ladino
 - **Usuario de GitHub:** [@rousmith](https://github.com/rousmith)
 - **Institución:** Universidad Distrital Francisco José de Caldas
-- **Contacto:** _(pendiente)_
+- **Contacto:** rvladinog@udistrital.edu.co
 
 > Ficha elaborada como ejercicio académico de documentación de modelos y conjuntos de datos, siguiendo las directrices de **Mitchell et al. (2019), *Model Cards for Model Reporting*** y las plantillas de **Hugging Face** (`modelcard_template.md` y `datasetcard_template.md`).
 
